@@ -1,0 +1,72 @@
+body {
+   background-image: url(1YGOpro/blueeyes.jpg);
+}
+
+*{
+    box-sizing: border-box;
+}
+.clm {
+    float: left;
+    width: 20%;
+    padding: 3px;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    height: 100px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(216, 70, 70);
+    background-image: url(1YGOpro/DLMb.jpg);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+a {
+    color: white;
+}
+
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+main {
+    background-color: rgba(0, 0, 0, 0.192);
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-left: 240px;
+    padding-right: 240px;
+
+}
+
+.duelmonsters {
+    width: 200px;
+}
+
+.ygogx {
+    width: 200px;
+    padding-right: 200px;
+}
+
+.ygo5ds {
+    width: 200px;
+    padding-right: 200px;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
